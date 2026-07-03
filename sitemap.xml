@@ -1,32 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://bp-sf-t3-1779642675702-117.netlify.app/</loc>
-    <lastmod>2026-06-10</lastmod>
+    <loc>https://sarakinhceo-gif.github.io/bp-sf-t3-1779642675702-117/</loc>
+    <lastmod>2026-07-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://bp-sf-t3-1779642675702-117.netlify.app/blog.html</loc>
-    <lastmod>2026-06-10</lastmod>
+    <loc>https://sarakinhceo-gif.github.io/bp-sf-t3-1779642675702-117/blog.html</loc>
+    <lastmod>2026-07-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://bp-sf-t3-1779642675702-117.netlify.app/posts/compare-002-1ovu8y0.html</loc>
+    <loc>https://sarakinhceo-gif.github.io/bp-sf-t3-1779642675702-117/posts/compare-002-1ovu8y0.html</loc>
     <lastmod>2026-06-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://bp-sf-t3-1779642675702-117.netlify.app/posts/qa-001-1ovu8y0.html</loc>
+    <loc>https://sarakinhceo-gif.github.io/bp-sf-t3-1779642675702-117/posts/field_note-002-qs5h4.html</loc>
+    <lastmod>2026-07-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sarakinhceo-gif.github.io/bp-sf-t3-1779642675702-117/posts/qa-001-1ovu8y0.html</loc>
     <lastmod>2026-06-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://bp-sf-t3-1779642675702-117.netlify.app/feed.xml</loc>
-    <lastmod>2026-06-10</lastmod>
+    <loc>https://sarakinhceo-gif.github.io/bp-sf-t3-1779642675702-117/posts/review-001-1usz8rz.html</loc>
+    <lastmod>2026-07-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sarakinhceo-gif.github.io/bp-sf-t3-1779642675702-117/feed.xml</loc>
+    <lastmod>2026-07-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
